@@ -1,5 +1,12 @@
 <template>
-  <div class="notfound">
-    <h1>This is an notfound page</h1>
+  <div class="ydd-notfound">
+    <h1>404 NOT FOUND!</h1>
   </div>
 </template>
+
+<style lang='scss'> 
+  .ydd-notfound{
+    text-align: center;
+    padding-top:200px;
+  }
+</style>
